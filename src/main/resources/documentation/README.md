@@ -15,6 +15,6 @@ Please refer to the test data script.
 
 ### Usernames
 - Dharshini
-- Mugil
+- Mugil Pandian
 - Naveen
 - Harini
