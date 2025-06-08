@@ -12,3 +12,9 @@ To set up the Database in your local environment follow the database init script
 
 ### Sample Data
 Please refer to the test data script.
+
+### Usernames
+- Dharshini
+- Mugil
+- Naveen
+- Harini
