@@ -1,2 +1,5 @@
-# library.management.system
-This is a sample library management system made by integrating MySql and Springboot.
+# books.database.management
+
+This is simple project to maintain a personal library/books database
+
+### Refer to Documentation Folder for more info
