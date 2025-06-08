@@ -1,4 +1,5 @@
-# TERMINAL COMMANDS:
+# TERMINAL COMMANDS :
+
 1. ### GIT CONFIGURATION
 ###### To connect to particular github account
 ~~~
