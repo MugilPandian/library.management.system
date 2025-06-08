@@ -8,7 +8,7 @@ git config --global user.email "<user_email>"
 ~~~
 
 2. ### NAVIGATION
-###### Navigate to the folder of the particular project
+###### Navigate to the desired folder
 ~~~
 cd <location_name>
 ~~~
@@ -38,13 +38,14 @@ git checkout -b <user_name>
 5. ### CHANGES
 ###### To ask git to include the changes
 ~~~
+git add
 git add <location_of_file>
 ~~~
 
 6. ### Commit
 ###### To save the changes made
 ~~~
-git commit "<message>"
+git commit -m "<message>"
 ~~~
 
 7. ### PUSH
